@@ -1,18 +1,20 @@
 <h1 align="center">Hi 👋, I'm Ryan Woods</h1>
 <h3 align="center">A passionate back-end developer based in Uppsala, Sweden</h3>
 
-- 👨‍💻 Knows both ends of web-development
-- 😃 Loves back-end the most because of the problem-solving
+*Newly graduated from Europe's #1 coding bootcamp,* [Le Wagon](https://github.com/lewagon)
+
+- 😃 Love problem-solving and to code
 - 👨‍🏫 Uses MVC design and agile approaches
-- 🌱 Currently developing my **Ruby on Rails** skills
 - 👯 Just finished two collaboration projects:
 	- 💻 [Tech-away](https://www.tech-away.org/)
 	- 🖼 [Art Exchange](http://art-exchange-app.herokuapp.com/)
-- ⚡ About to start new projects
-- 📷 Other hobbies **[Photographing owls](https://www.ryanofwoods.com/) 🦉**
+- ⚡ About to start new rails projects
 - 📄 Learn about my experiences: [https://www.linkedin.com/in/ryanofwoods/](https://www.linkedin.com/in/ryanofwoods/)
 - 📫 Reach out to me: **[contact@ryanofwoods.com](mailto:contact@ryanofwoods.com)**
- 
+
+**My other passion** 
+[🦉 Photographing owls](https://www.ryanofwoods.com/)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.ruby-lang.org/en/" target="_blank">
