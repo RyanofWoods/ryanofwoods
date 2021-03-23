@@ -12,6 +12,9 @@
 - 📄 Learn about my experiences: [https://www.linkedin.com/in/ryanofwoods/](https://www.linkedin.com/in/ryanofwoods/)
 - 📫 Reach out to me: **[contact@ryanofwoods.com](mailto:contact@ryanofwoods.com)**
 
+**Hackathon Wins/Awards**:
+- Le Wagon's first Hackathon, 20-21 March, 2021 - [repo](https://github.com/thomas-kenny/veeqo)
+
 **My other passion** 
 [🦉 Photographing owls](https://www.ryanofwoods.com/)
 
