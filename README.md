@@ -4,20 +4,26 @@
 *Newly graduated from Europe's #1 coding bootcamp,* [Le Wagon](https://github.com/lewagon)
 
 - 😃 Love problem-solving and to code
-- 👨‍🏫 Uses MVC design and agile approaches
-- 👯 Just finished two collaboration projects:
-	- 💻 [Tech-away](https://www.tech-away.org/)
-	- 🖼 [Art Exchange](http://art-exchange-app.herokuapp.com/)
-- ⚡ Currently working on:
-	- 📣 [Rails + React Chat](https://github.com/RyanofWoods/chat-rails-redux)
 - 📄 Learn about my experiences: [https://www.linkedin.com/in/ryanofwoods/](https://www.linkedin.com/in/ryanofwoods/)
 - 📫 Reach out to me: **[contact@ryanofwoods.com](mailto:contact@ryanofwoods.com)**
 
-**Awards/Hackathon Wins**:
-- Le Wagon's first Hackathon, 20-21 March, 2021 - [repo](https://github.com/thomas-kenny/veeqo)
-
 **My other passion** 
-[🦉 Photographing owls](https://www.ryanofwoods.com/)
+🦉 [Photographing owls](https://www.ryanofwoods.com/)
+
+### Latest Projects:
+#### ***March***
+- 💻 [Tech-away](https://www.tech-away.org/) | [repo](https://github.com/martaroncero/tech-away) [Colab, Complete]
+- 🖼 [Art Exchange](http://art-exchange-app.herokuapp.com/) | [repo](https://github.com/martaroncero/Art-exchange) [Colab, Complete]
+#### ***April***
+- 💣 [Minesweeper](https://ryanofwoods.github.io/minesweeper/) | [repo](https://github.com/RyanofWoods/minesweeper) [Solo, Complete]
+- 📽 Movie picker | repo [Colab, Ongoing]
+- 📣 Rails + React Chat | [repo](https://github.com/RyanofWoods/chat-rails-redux) [Solo, Ongoing]
+#### ***May***
+- 🦅 Swedish Birds Checklist | [repo](https://github.com/RyanofWoods/rails-react-swedish-birds) [Solo, Ongoing]
+
+### Awards/Hackathon Wins:
+- Le Wagon's first Hackathon, 20-21 March, 2021 | [repo](https://github.com/thomas-kenny/veeqo)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
