@@ -19,7 +19,7 @@
 - 📽 Movie picker | repo [Colab, Ongoing]
 - 📣 Rails + React Chat | [repo](https://github.com/RyanofWoods/chat-rails-redux) [Solo, Ongoing]
 #### ***May***
-- 🦅 Swedish Birds Checklist | [repo](https://github.com/RyanofWoods/rails-react-swedish-birds) [Solo, Ongoing]
+- 🦅 [Swedish Birds Checklist](http://swedishbirds.herokuapp.com) | [repo](https://github.com/RyanofWoods/rails-react-swedish-birds) [Solo, Ongoing]
 
 ### Awards/Hackathon Wins:
 - Le Wagon's first Hackathon, 20-21 March, 2021 | [repo](https://github.com/thomas-kenny/veeqo)
