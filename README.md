@@ -16,7 +16,6 @@
 - 🖼 [Art Exchange](http://art-exchange-app.herokuapp.com/) | [repo](https://github.com/martaroncero/Art-exchange) [Colab, Complete]
 #### ***April***
 - 💣 [Minesweeper](https://ryanofwoods.github.io/minesweeper/) | [repo](https://github.com/RyanofWoods/minesweeper) [Solo, Complete]
-- 📽 Movie picker | repo [Colab, Ongoing]
 - 📣 Rails + React Chat | [repo](https://github.com/RyanofWoods/chat-rails-redux) [Solo, Ongoing]
 #### ***May***
 - 🦅 [Swedish Birds Checklist](http://swedishbirds.herokuapp.com) | [repo](https://github.com/RyanofWoods/rails-react-swedish-birds) [Solo, Ongoing]
