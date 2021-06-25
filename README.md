@@ -16,9 +16,9 @@
 - 🖼 [Art Exchange](http://art-exchange-app.herokuapp.com/) | [repo](https://github.com/martaroncero/Art-exchange) [Colab, Complete]
 #### ***April***
 - 💣 [Minesweeper](https://ryanofwoods.github.io/minesweeper/) | [repo](https://github.com/RyanofWoods/minesweeper) [Solo, Complete]
-- 📣 Rails + React Chat | [repo](https://github.com/RyanofWoods/chat-rails-redux) [Solo, Ongoing]
+- 📣 Rails + React Chat | [repo](https://github.com/RyanofWoods/chat-rails-redux) [Solo]
 #### ***May***
-- 🦅 [Swedish Birds Checklist](http://swedishbirds.herokuapp.com) | [repo](https://github.com/RyanofWoods/rails-react-swedish-birds) [Solo, Ongoing]
+- 🦅 [Swedish Birds Checklist](http://swedishbirds.herokuapp.com) | [repo](https://github.com/RyanofWoods/rails-react-swedish-birds) [Solo, Complete]
 
 ### Awards/Hackathon Wins:
 - Le Wagon's first Hackathon, 20-21 March, 2021 | [repo](https://github.com/thomas-kenny/veeqo)
