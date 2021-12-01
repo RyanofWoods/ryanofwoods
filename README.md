@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryan Woods</h1>
 <h3 align="center">A passionate back-end developer based in Uppsala, Sweden</h3>
 
-*Newly graduated from Europe's #1 coding bootcamp,* [Le Wagon](https://github.com/lewagon)
+*[Nebulab](https://nebulab.com) engineer and [Le Wagon](https://github.com/lewagon) graduate - contributor of [Solidus](https://github.com/solidusio/solidus) and extensions*
 
 - 😃 Love problem-solving and to code
 - 📄 Learn about my experiences: [https://www.linkedin.com/in/ryanofwoods/](https://www.linkedin.com/in/ryanofwoods/)
@@ -11,15 +11,17 @@
 🦉 [Photographing owls](https://www.ryanofwoods.com/)
 
 ### Latest Projects:
-#### ***March***
+#### ***March 2021***
 - 💻 [Tech-away](https://www.tech-away.org/) | [repo](https://github.com/martaroncero/tech-away) [Colab, Complete]
 - 🖼 [Art Exchange](http://art-exchange-app.herokuapp.com/) | [repo](https://github.com/martaroncero/Art-exchange) [Colab, Complete]
-#### ***April***
+#### ***April 2021***
 - 💣 [Minesweeper](https://ryanofwoods.github.io/minesweeper/) | [repo](https://github.com/RyanofWoods/minesweeper) [Solo, Complete]
 - 📣 Rails + React Chat | [repo](https://github.com/RyanofWoods/chat-rails-redux) [Solo]
-#### ***May***
+#### ***May 2021***
 - 🦅 [Swedish Birds Checklist](http://swedishbirds.herokuapp.com) | [repo](https://github.com/RyanofWoods/rails-react-swedish-birds) [Solo, Complete]
 
+#### ***June 2021 to present***
+- Working for Nebulab
 ### Awards/Hackathon Wins:
 - Le Wagon's first Hackathon, 20-21 March, 2021 | [repo](https://github.com/thomas-kenny/veeqo)
 
