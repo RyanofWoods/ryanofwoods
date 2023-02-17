@@ -18,7 +18,7 @@
 - 💣 [Minesweeper](https://ryanofwoods.github.io/minesweeper/) | [repo](https://github.com/RyanofWoods/minesweeper) [Solo, Complete]
 - 📣 Rails + React Chat | [repo](https://github.com/RyanofWoods/chat-rails-redux) [Solo]
 #### ***May 2021***
-- 🦅 [Swedish Birds Checklist](http://swedishbirds.herokuapp.com) | [repo](https://github.com/RyanofWoods/rails-react-swedish-birds) [Solo, Complete]
+- 🦅 [Swedish Birds Checklist](https://swedish-birds.onrender.com) | [repo](https://github.com/RyanofWoods/rails-react-swedish-birds) [Solo, Complete]
 
 #### ***June 2021 to present***
 - Working for Nebulab
