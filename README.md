@@ -1,30 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ryan Woods</h1>
-<h3 align="center">A passionate back-end developer based in Uppsala, Sweden</h3>
+<h3 align="center">A passionate web-developer based in Sweden</h3>
 
-*[Nebulab](https://nebulab.com) engineer and [Le Wagon](https://github.com/lewagon) graduate - contributor of [Solidus](https://github.com/solidusio/solidus) and extensions*
+*Software Engineer [Nebulab](https://nebulab.com) - contributor of [Solidus](https://github.com/solidusio/solidus) and extensions*
 
-- 😃 Love problem-solving and to code
 - 📄 Learn about my experiences: [https://www.linkedin.com/in/ryanofwoods/](https://www.linkedin.com/in/ryanofwoods/)
 - 📫 Reach out to me: **[contact@ryanofwoods.com](mailto:contact@ryanofwoods.com)**
 
 **My other passion** 
-🦉 [Photographing owls](https://www.ryanofwoods.com/)
-
-### Latest Projects:
-#### ***March 2021***
-- 💻 [Tech-away](https://www.tech-away.org/) | [repo](https://github.com/martaroncero/tech-away) [Colab, Complete]
-- 🖼 [Art Exchange](http://art-exchange-app.herokuapp.com/) | [repo](https://github.com/martaroncero/Art-exchange) [Colab, Complete]
-#### ***April 2021***
-- 💣 [Minesweeper](https://ryanofwoods.github.io/minesweeper/) | [repo](https://github.com/RyanofWoods/minesweeper) [Solo, Complete]
-- 📣 Rails + React Chat | [repo](https://github.com/RyanofWoods/chat-rails-redux) [Solo]
-#### ***May 2021***
-- 🦅 [Swedish Birds Checklist](https://swedish-birds.onrender.com) | [repo](https://github.com/RyanofWoods/rails-react-swedish-birds) [Solo, Complete]
-
-#### ***June 2021 to present***
-- Working for Nebulab
-### Awards/Hackathon Wins:
-- Le Wagon's first Hackathon, 20-21 March, 2021 | [repo](https://github.com/thomas-kenny/veeqo)
-
+🦉 [Photographing wildlife](https://www.ryanofwoods.com/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -36,6 +19,9 @@
   </a>
   <a href="https://www.postgresql.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
