@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ryan Woods</h1>
-<h3 align="center">A passionate web-developer based in Sweden</h3>
+<h3 align="center">A full-stack web-developer based in Sweden</h3>
 
 *Software Engineer [Nebulab](https://nebulab.com) - contributor of [Solidus](https://github.com/solidusio/solidus) and extensions*
 
